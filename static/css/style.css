@@ -1,0 +1,60 @@
+.container-5{
+    text-align: center;
+    width: 75%;
+    margin: 0 auto;
+}
+
+.header { 
+    color: #CEF0D4; 
+    font-family: 'Rouge Script', cursive; font-size: 100px; 
+    font-weight: normal; 
+    line-height: 48px; 
+    padding: 20px;
+    margin: 0 0 58px; 
+    text-align: center; 
+    text-shadow: 1px 1px 2px #082b34; }
+
+.background{
+    background: url("https://images.pexels.com/photos/4668244/pexels-photo-4668244.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+}
+#blackjack-result{
+    color: #CEF0D4; 
+}
+.flex-blackjack-row-1, .flex-blackjack-row-2, .flex-blackjack-row-3 {
+    display: flex;
+    padding: 10px;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content:space-around;
+}
+.flex-blackjack-row-1, .flex-blackjack-row-2{
+    background: url("https://t4.ftcdn.net/jpg/03/25/38/41/240_F_325384191_sg1D5lYWfRedGQsBm8xIHnsSAUUUVxGE.jpg") center;
+    color: #ffffff;
+}
+.flex-blackjack-row-1 div{
+    padding: 10px;
+    flex: 1;
+    text-align: center;
+    height: 350px;
+}
+.flex-blackjack-row-1 img{
+    width: 25%;
+    padding: 10px;
+}
+.flex-blackjack-row-2 img{
+    width: 25%;
+    padding: 10px;
+}
+
+.flex-blackjack-row-2 button{
+    padding: 10px;
+}
+.flex-blackjack-row-2 div{
+    padding: 10px;
+}
+table{
+    color: #CEF0D4; 
+}
+
+
+    
